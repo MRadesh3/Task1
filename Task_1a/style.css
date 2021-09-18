@@ -1,0 +1,58 @@
+.one {
+  color: white;
+  background-color: #0000ff;
+}
+
+th {
+  padding: 0 4px 0 4px;
+}
+
+table {
+  border-style: ridge;
+  text-align: center;
+}
+
+td, th, tr {
+  border-style: ridge;
+}
+
+.space {
+  width: 379px;
+}
+
+.spaces {
+  width: 350px;
+}
+
+.special {
+  margin: 30px 50px 20px 150px;
+  padding: 0 30px 30px 30px;
+  width: 890px;
+  text-align: center;
+  background-image: linear-gradient(rgb(250, 250, 250), rgb(107, 107, 107));
+}
+
+.two {
+  background-color: #ededed;
+}
+
+.three {
+  background-color: #1e90ff;
+  color: white;
+}
+
+.four {
+  background-color: #add8e6
+}
+
+td {
+  font-weight: 620;
+}
+
+.last {
+  padding: 3px 2px;
+}
+
+.lasts {
+  padding: 3px 19px;
+}
