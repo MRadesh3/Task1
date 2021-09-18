@@ -1,0 +1,36 @@
+.outer {
+  margin: 25px 0 0 400px;
+  width: 405px;
+  background-color: #f7f7f7;
+}
+
+.contact {
+  background-color: #43d1af;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+.just {
+  padding: 20px;
+}
+
+input {
+  width: 365px;
+  padding: 7px;
+}
+
+button {
+  width: 366px;
+  background-color: #43d1af;
+  border: none;
+  color: white;
+}
+
+textarea {
+  padding: 5px 0 0 9px;
+}
+
+.gh {
+  margin: 6px 0;
+}
